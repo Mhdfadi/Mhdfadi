@@ -1,4 +1,5 @@
 Hi, I'm Fadi 👋
+
 Cybersecurity Enthusiast | Computer Science Student
 
 Building practical projects to develop skills in security, networking, and Python.
